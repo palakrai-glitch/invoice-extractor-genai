@@ -1,0 +1,44 @@
+{
+    "invoice_number": "26061109342",
+    "invoice_date": "23-Jun-2026",
+    "due_date": "08-Jul-2026",
+    "billed_by": "Chhattisgarh State Power Distribution Co. Ltd.",
+    "billed_to": "Suman Singh",
+    "line_items": [
+        {
+            "item": "Energy Charges (Slab rate applied: 355 Units)",
+            "amount": "1,622.50"
+        },
+        {
+            "item": "Fixed / Demand Charges",
+            "amount": "120.00"
+        },
+        {
+            "item": "Electricity Duty (ED) @ 8%",
+            "amount": "129.80"
+        },
+        {
+            "item": "Cess / Surcharge",
+            "amount": "35.50"
+        },
+        {
+            "item": "Municipal Tax",
+            "amount": "45.00"
+        },
+        {
+            "item": "Arrears / Previous Balance (if any)",
+            "amount": "512.20"
+        },
+        {
+            "item": "Prompt Payment Rebate (if paid before 02-Jul)",
+            "amount": "- 50.00"
+        }
+    ],
+    "subtotal": null,
+    "discount": null,
+    "tax_or_gst": null,
+    "total_amount": "2,415.00",
+    "currency": "₹",
+    "payment_method": null,
+    "notes": "If payment is not made within the due date, a Late Payment Surcharge (LPS) @ 1.5% per month will be levied on the outstanding balance in the next billing cycle."
+}

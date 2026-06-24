@@ -1,0 +1,20 @@
+{
+    "invoice_number": null,
+    "invoice_date": "12/29/2017",
+    "due_date": "1/31/2018",
+    "billed_by": "Clark Regional Wastewater District",
+    "billed_to": "CUSTOMER NAME, 123 MAIN STREET, VANCOUVER WA 98661",
+    "line_items": [
+        {
+            "item": "Sewer Service",
+            "amount": "76.00"
+        }
+    ],
+    "subtotal": "76.00",
+    "discount": null,
+    "tax_or_gst": null,
+    "total_amount": "76.00",
+    "currency": "$",
+    "payment_method": null,
+    "notes": "P.O. BOX 3855, Seattle, WA 98124 is the District's new mailing address. Payments received by mail or online banking must be sent to the new address! Please allow additional time for processing payments."
+}

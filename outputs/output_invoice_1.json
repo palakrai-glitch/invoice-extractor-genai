@@ -1,0 +1,20 @@
+{
+    "invoice_number": "10623TE002236556",
+    "invoice_date": "12 Oct 2022",
+    "due_date": null,
+    "billed_by": "Myntra",
+    "billed_to": "Radha Tech Connect Retail Pvt Ltd",
+    "line_items": [
+        {
+            "item": "BOATHDPH41386516-boAt Pink Airdopes 131 M TWS Wireless Earbuds (Size: ONESIZE)",
+            "amount": "799.00"
+        }
+    ],
+    "subtotal": "2191.00",
+    "discount": "0.00",
+    "tax_or_gst": "677.12",
+    "total_amount": "799.00",
+    "currency": "Rs",
+    "payment_method": null,
+    "notes": "The goods sold as part of this shipment are intended for end-user consumption and are not for retail sale."
+}
