@@ -25,9 +25,9 @@ python invoice_extractor.py
 
 ## Tested Invoices
 
-1. Electricity Bill
-2. Mobile Bill
-3. Vendor Invoice
+1. Water Bill
+2. Utility Bill
+3. Electricity Bill
 
 ## Output
 
